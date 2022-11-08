@@ -1,5 +1,5 @@
 module.exports = {
-  // base:配置部署站点的基础路径，后续再介绍
+  base: '/yb-docs/',
   title: '易靓好车', // 网站的标题
   description: '易靓好车', // 网站的描述，它将会以 <meta> 标签渲染到当前页面的 HTML 中。
   head: [
